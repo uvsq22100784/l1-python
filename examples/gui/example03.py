@@ -1,5 +1,4 @@
 from tkinter import *
-
 CANVAS_WIDTH, CANVAS_HEIGHT = 600, 400
 
 if __name__ == '__main__':
